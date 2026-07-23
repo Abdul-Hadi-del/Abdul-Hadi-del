@@ -14,15 +14,12 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Generate trophy image
-        uses: ryo-ma/github-profile-trophy@v1.1.0
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: Abdul-Hadi-del
-          theme: tokyonight
-          column: 7
-          no-frame: true
-          no-bg: true
-          output: trophy-images/github-trophy.svg
+          output_path: trophy-images/github-trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output-trophy branch
         uses: crazy-max/ghaction-github-pages@v4
