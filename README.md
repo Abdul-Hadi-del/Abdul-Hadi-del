@@ -53,19 +53,19 @@ I enjoy solving real-world problems through clean, scalable software and continu
 <div align="center">
 
 <a href="https://hadi-portfolio-view.netlify.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-Hadi-del&repo=hadi-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdul-Hadi-del&repo=hadi-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" />
 </a>
 <a href="https://emergency-response-syste-eefaa.web.app/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-Hadi-del&repo=emergency-response-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdul-Hadi-del&repo=emergency-response-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" />
 </a>
 <a href="https://e-voting-system-solution.netlify.app/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-Hadi-del&repo=E-Voting-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdul-Hadi-del&repo=E-Voting-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" />
 </a>
 <a href="https://badshah-ka-wazeer-kon-knnysepksftexbvrntwlef.streamlit.app/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-Hadi-del&repo=badshah-ka-wazeer-kon&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdul-Hadi-del&repo=badshah-ka-wazeer-kon&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" />
 </a>
 <a href="https://abdul-hadi-del.github.io/charcoal-kitchen/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-Hadi-del&repo=charcoal-kitchen&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdul-Hadi-del&repo=charcoal-kitchen&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" />
 </a>
 
 </div>
@@ -76,10 +76,10 @@ I enjoy solving real-world problems through clean, scalable software and continu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdul-Hadi-del&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Hadi-del&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdul-Hadi-del&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Abdul-Hadi-del&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Hadi-del&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abdul-Hadi-del&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6" width="48%" />
 
 </div>
 
