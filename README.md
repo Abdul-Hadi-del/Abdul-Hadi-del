@@ -48,6 +48,30 @@ I enjoy solving real-world problems through clean, scalable software and continu
 
 <br>
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://hadi-portfolio-view.netlify.app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-Hadi-del&repo=hadi-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" />
+</a>
+<a href="https://emergency-response-syste-eefaa.web.app/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-Hadi-del&repo=emergency-response-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" />
+</a>
+<a href="https://e-voting-system-solution.netlify.app/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-Hadi-del&repo=E-Voting-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" />
+</a>
+<a href="https://badshah-ka-wazeer-kon-knnysepksftexbvrntwlef.streamlit.app/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-Hadi-del&repo=badshah-ka-wazeer-kon&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" />
+</a>
+<a href="https://abdul-hadi-del.github.io/charcoal-kitchen/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-Hadi-del&repo=charcoal-kitchen&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" />
+</a>
+
+</div>
+
+<br>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -56,6 +80,26 @@ I enjoy solving real-world problems through clean, scalable software and continu
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Hadi-del&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Hadi-del&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6" width="48%" />
+
+</div>
+
+<br>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abdul-Hadi-del&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+<br>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Abdul-Hadi-del/Abdul-Hadi-del/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
