@@ -89,7 +89,7 @@ I enjoy solving real-world problems through clean, scalable software and continu
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abdul-Hadi-del&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Abdul-Hadi-del&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
